@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Shivakarthik01
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate with friends who can help me mentors who can guide me, and people who can give me good challenges or projects
-- 📫 How to reach me People can contact me my email which is shivakarthik924@gmail.com and my contact info is 9182481204 and also through github
+# 🎯 Pentesting Journey: IAM Engineer → Penetration Tester
 
-<!---
-Shivakarthik01/Shivakarthik01 is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 About Me
+
+I'm Shiva Karthik, an IAM and Active Directory professional with 2+ years of 
+enterprise experience managing 500+ users. I'm transitioning into offensive 
+security and documenting my 30-day intensive learning journey.
+
+## 🔥 Why This Transition?
+
+For 2+ years, I've been building and managing security controls:
+- Active Directory administration
+- Privileged Access Management
+- Identity Lifecycle Management
+- MFA implementation
+- Access governance
+
+Now I'm learning to **test** if these controls actually work by thinking like 
+an attacker.
+
+## 🔗 Connect With Me
+
+- LinkedIn: linkedin.com/in/shiva-karthik-putrevu-b7185a194
